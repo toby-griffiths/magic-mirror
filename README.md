@@ -24,3 +24,6 @@ A small HTML / JS / Pi / Kinnect project to build a magic mirror
 1. Setup project
 
         $ gulp setup
+
+
+Do more stuff
